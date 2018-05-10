@@ -1,7 +1,7 @@
  This a PHP/JavaScript code using Leafletjs to track a 
  Yocto-GPS connected to a Yocto-GSM. More details available
  here:
-    www.yoctopuce.com/EN/article/free-geolocalization-using-leafletjs
+    www.yoctopuce.com/EN/article/free-geolocalization-using-leaflet
 
  INSTALLATION:
  copy this script and all the yocto_*.php file listed below
